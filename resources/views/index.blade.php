@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         @vite('resources/css/app.css')
     <title>
-      Play | Free Tailwind CSS Template for Startup and SaaS By TailGrids
+      Sistem Antrian Pelayanan Publik
     </title>
     <link
       rel="shortcut icon"
@@ -32,7 +32,7 @@
           <div class="max-w-full px-4 w-60">
             <a href="index.html" class="block w-full py-5 navbar-logo">
               <img
-                src="{{ asset('assets/images/logo/mppfix.png') }}"
+                src=""
                 alt="logo"
                 class="w-full header-logo"
               />
@@ -183,7 +183,7 @@
                 data-wow-delay=".2s"
                 >
                 <h1 class="mb-6 text-3xl font-bold leading-snug text-white sm:text-4xl sm:leading-snug lg:text-5xl lg:leading-[1.2]">
-                    Mall Pelayanan Publik Kudus
+                    Sistem Antrian Pelayanan Publik
                 </h1>
                 <p class="mx-auto mb-9 max-w-[600px] text-base font-medium text-white sm:text-lg sm:leading-[1.44]">
                     Siap Melayani Anda.
@@ -229,14 +229,14 @@
                 Instansi
             </h1>
             <p class="mx-auto mb-9 max-w-[600px] text-base font-medium text-black sm:text-lg sm:leading-[1.44]">
-                Daftar Instansi di Mall Pelayanan Publik Kabupaten Kudus.
+                Daftar Instansi.
             </p>
             </div>
 
             <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
             <!-- Card 1 -->
             <div class="bg-white rounded-2xl shadow-md p-6 text-center">
-                <img src="{{ asset('assets/images/instansi/DPMPTSP.png') }}" alt="Garret Edwards" class="w-32 h-32 mx-auto rounded-full mb-4 object-cover">
+                <img src="" alt="Instansi 1" class="w-32 h-32 mx-auto rounded-full mb-4 object-cover">
                 <h3 class="text-xl font-semibold text-gray-800">Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu</h3>
                 
                 <div class="flex justify-center space-x-4 text-gray-500">
@@ -248,7 +248,7 @@
 
             <!-- Card 2 -->
             <div class="bg-white rounded-2xl shadow-md p-6 text-center">
-                <img src="{{ asset('assets/images/instansi/DUKCAPIL.png') }}" alt="Jonathan Leeson" class="w-32 h-32 mx-auto rounded-full mb-4 object-cover">
+                <img src="" alt="Instansi 2" class="w-32 h-32 mx-auto rounded-full mb-4 object-cover">
                 <h3 class="text-xl font-semibold text-gray-800">Direktorat Jenderal Kependudukan dan Pencatatan Sipil</h3>
                 <div class="flex justify-center space-x-4 text-gray-500">
                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -259,8 +259,8 @@
 
             <!-- Card 3 -->
             <div class="bg-white rounded-2xl shadow-md p-6 text-center">
-                <img src="{{ asset('assets/images/instansi/KEJAKSAAN.png') }}" alt="Joe Russell" class="w-32 h-32 mx-auto rounded-full mb-4 object-cover">
-                <h3 class="text-xl font-semibold text-gray-800">Kejaksaan Negeri Kudus</h3>
+                <img src="" alt="Instansi 3" class="w-32 h-32 mx-auto rounded-full mb-4 object-cover">
+                <h3 class="text-xl font-semibold text-gray-800">Kejaksaan Negeri</h3>
                 <div class="flex justify-center space-x-4 text-gray-500">
                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                 <a href="#"><i class="fab fa-twitter"></i></a>
@@ -316,7 +316,7 @@
                       Lokasi
                     </h5>
                     <p class="text-base text-body-color dark:text-dark-6">
-                      5RVR+8H6, Kudus, Demaan, Kota Kudus, Kudus Regency, Central Java
+                      Indonesia
                     </p>
                   </div>
                 </div>
@@ -340,10 +340,10 @@
                       Hubungi Kami
                     </h5>
                     <p class="text-base text-body-color dark:text-dark-6">
-                      (0291) 435018
+                      (0999) 999999
                     </p>
                     <p class="mt-1 text-base text-body-color dark:text-dark-6">
-                      mpp@kuduskab.go.id
+                      pelayananpublik@example.com
                     </p>
                   </div>
                 </div>
@@ -354,7 +354,7 @@
             <div class="wow fadeInUp rounded-lg bg-white px-8 py-10 shadow-testimonial dark:bg-dark-2 dark:shadow-none sm:px-10 sm:py-12 md:p-[60px] lg:p-10 lg:px-10 lg:py-12 2xl:p-[60px]"
               data-wow-delay=".2s" >
               <img
-                src="{{ asset('assets/images/logo/mppfix.png') }}"
+                src=""
                 alt="logo"
                 class="w-full header-logo"
               />

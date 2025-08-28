@@ -19,7 +19,7 @@ class AntrianChart extends ApexChartWidget
      *
      * @var string|null
      */
-    protected static ?string $heading = 'AntrianChart';
+    protected static ?string $heading = 'Total Antrian';
 
     /**
      * Chart options (series, labels, types, size, animations...)
@@ -36,7 +36,7 @@ class AntrianChart extends ApexChartWidget
         return [
             'chart' => [
                 'type' => 'bar',
-                'height' => 300,
+                'height' => 200,
             ],
             'series' => [
                 [
