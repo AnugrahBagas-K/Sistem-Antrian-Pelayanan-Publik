@@ -209,7 +209,7 @@
                 >
                 <div class="mt-16">
                     <img
-                    src="assets/images/image.png"
+                    src="assets/images/image1.png"
                     alt="hero"
                     class="max-w-full mx-auto rounded-t-xl rounded-tr-xl"
                     />

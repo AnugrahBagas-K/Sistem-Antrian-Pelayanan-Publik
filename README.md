@@ -4,9 +4,20 @@
 
 Sistem Antrian Pelayanan Publik merupakan aplikasi berbasis website yang bertujuan untuk mempermudah pembuatan antrian untuk pelayanan publik di lingkup pemerintahan.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing)..
+<img src="assets/images/image1.png" width="400" alt="Laravel Logo">
+<img src="assets/images/image.png" width="400" alt="Laravel Logo">
 
-## Sneak Peek
+
+## Admin
+- Menambah Daftar Instansi
+- Menambah Daftar Layanan Untuk Setiap Instansi
+- Membuat Antrian
+- Mengatur Data User
+
+## Peserta
+- Melihat Daftar Instansi
+- Melihat Daftar Layanan
+- Membuat Antrian
 
 <!--Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
