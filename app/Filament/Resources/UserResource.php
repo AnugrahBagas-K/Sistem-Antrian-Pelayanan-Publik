@@ -33,9 +33,13 @@ class UserResource extends Resource
                 Forms\Components\TextInput::make('password')
                     ->password()
                     ->required(),
-                Forms\Components\Select::make('roles')
-                    ->multiple()
-                    ->relationship('roles','name'), 
+                Forms\Components\Select::make('role')
+                    ->searchable()
+                    ->required()
+                    ->options([
+                        'peserta' => 'Peserta',
+                        
+                    ]), 
             ]);
     }
 
@@ -47,7 +51,7 @@ class UserResource extends Resource
                     ->searchable(),
                 Tables\Columns\TextColumn::make('email')
                     ->searchable(),
-                Tables\Columns\TextColumn::make('roles.name'),
+                Tables\Columns\TextColumn::make('role'),
                    
                 Tables\Columns\TextColumn::make('created_at')
                     ->dateTime()
