@@ -4,9 +4,6 @@
 
 Sistem Antrian Pelayanan Publik merupakan aplikasi berbasis website yang bertujuan untuk mempermudah pembuatan antrian untuk pelayanan publik di lingkup pemerintahan.
 
-<img src="assets/images/image1.png" width="400" alt="Laravel Logo">
-<img src="assets/images/image.png" width="400" alt="Laravel Logo">
-
 
 ## Admin
 - Menambah Daftar Instansi
